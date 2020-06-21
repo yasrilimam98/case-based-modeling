@@ -1,0 +1,11 @@
+This directory contains the following files:
+kmeans_profiles.csv
+clustered_data.csv
+silh_plot.pdf
+som_options.csv
+summary_class.txt
+som_profiles.csv
+data_quadrants.csv
+som_barplot.pdf
+som_boxplot.pdf
+predicted_quadrants.csv

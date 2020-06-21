@@ -1,0 +1,14 @@
+      Final energy     : 1.006995 
+      Topographic error: 0 
+      Quant Error: 1.39469
+
+      ANOVA                : 
+
+        Degrees of freedom :  23 
+
+                            F pvalue significativity
+CustomerID             73.879      0             ***
+Age                    29.493      0             ***
+Annual.Income..k..     32.864      0             ***
+Spending.Score..1.100. 30.233      0             ***
+

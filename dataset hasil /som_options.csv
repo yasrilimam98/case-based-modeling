@@ -1,0 +1,2 @@
+"","x.dim","y.dim","proto_init","max_iter","data_scaling","gradient_descent"
+"1",5,5,"random",500,"unitvar",1
